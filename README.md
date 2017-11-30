@@ -4,7 +4,7 @@ Performance optimized.
 
 ## Installation
 ```
-$ npm install --save weapp-redux
+$ npm install --save weapp-redux-binding
 ```
 
 ## Usage
