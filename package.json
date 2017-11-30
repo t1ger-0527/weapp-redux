@@ -1,6 +1,6 @@
 {
   "name": "weapp-redux-binding",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Redux binding for weapp(Wechat mini program).",
   "main": "index.js",
   "scripts": {
