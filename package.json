@@ -1,0 +1,35 @@
+{
+  "name": "weapp-redux-binding",
+  "version": "1.0.0",
+  "description": "Redux binding for weapp(Wechat mini program).",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "cross-env ./node_modules/.bin/webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t1ger-0527/weapp-redux.git"
+  },
+  "keywords": [
+    "redux",
+    "weapp"
+  ],
+  "author": "t1ger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t1ger-0527/weapp-redux/issues"
+  },
+  "homepage": "https://github.com/t1ger-0527/weapp-redux#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "cross-env": "^5.1.1",
+    "deep-equal": "^1.0.1",
+    "shallowequal": "^1.0.2",
+    "webpack": "^3.8.1"
+  }
+}
